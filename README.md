@@ -4,6 +4,8 @@ CSS Projects
 
 1. [Food Delivery](https://prakashrana210.github.io/Project-FoodDelivery-frontend/)
 
+2. Responsive Site
+
 JavaScript Projects
 
 1. [Digital Clock](https://prakashrana210.github.io/JavaScript-Project-1/)
