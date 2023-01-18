@@ -2,7 +2,7 @@
 
 CSS Projects
 
-1. [Food Delivery](https://prakashrana210.github.io/Project-FoodDelivery-frontend/)
+1. [Food Delivery](https://prakashrana210.github.io/Food-Delivery-Project/)
 
 JavaScript Projects
 
